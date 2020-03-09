@@ -21,7 +21,7 @@ array.pop
 end
 
 def remove_element_from_start_of_array(array)
-array.unshift
+array.unshift()
 end
 
 def retrieve_element_from_index(array, index_number)
@@ -29,7 +29,7 @@ Array[index_number]
 end
 
 def retrieve_first_element_from_array(array)
-array.index(0)
+array.index[0]
 end
 
 def retrieve_last_element_from_array(array)
